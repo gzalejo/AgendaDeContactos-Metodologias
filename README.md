@@ -17,3 +17,6 @@ Requisitos funcionales / Agenda de contactos
    - La busqueda debe ser insensible a mayus/minus
 6. Ordenamiento alfabetico
    - El sistema debe permitir ordenar la lista de contactos por nombre de forma alfabetica A-Z o Z-A
+
+
+https://ag3412124.atlassian.net/jira/software/projects/SCRUM/boards/1
